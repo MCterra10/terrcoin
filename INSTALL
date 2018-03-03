@@ -1,0 +1,9 @@
+Building Terrcoin
+
+See doc/readme-qt.rst for instructions on building Terrcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Terrcoin.
+
+See doc/build-*.txt for instructions on building terrcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Terrcoin.
